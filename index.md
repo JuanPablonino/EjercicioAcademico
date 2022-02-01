@@ -1,4 +1,4 @@
-## Bienvienidos a la página de ejercicios de programación
+## Bienvenidos a la página de ejercicios de programación
 Esta página sirve para guardar todos los ejercicios del curso.
 
 ### Sobre mi
