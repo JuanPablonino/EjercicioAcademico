@@ -5,4 +5,5 @@ Esta página sirve para guardar todos los ejercicios del curso.
 una breve descripción de mi :D
 ### Ejercicios 
 Aquí se almacenarán los ejercicios realizados en clase.
-### 
+### Proyecto
+En este apartado escribiremos acerca de los proyectos.
